@@ -1,0 +1,17 @@
+*.uuid
+*.iml
+*.idea*
+*.class
+beregningsgrunnlag-fra-skattegrunnlag/target/
+logs/*
+dokumentasjon/wiki/
+*.~lock.*
+wiki/*
+
+
+# Cucumber reatures
+*.feature
+
+/.project
+
+target/
